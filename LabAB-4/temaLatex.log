@@ -1,0 +1,279 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.20)  20 NOV 2015 05:31
+entering extended mode
+**C:/Users/Student/Desktop/latex/temaLatex.tex
+(C:/Users/Student/Desktop/latex/temaLatex.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\romanian.ldf"
+Language: romanian 2005/03/31 v1.2l Romanian support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(C:\Users\Student\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count90
+)
+(C:\Users\Student\Desktop\latex\temaLatex.aux
+
+LaTeX Warning: Label `tab:tabel-exemplu' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen107
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+)
+Missing character: There is no â in font cmr17!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+ [1
+
+
+{C:/Users/Student/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(C:\Users\Student\Desktop\latex\temaLatex.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write3
+ [1
+
+] [2
+
+]
+(C:\Users\Student\Desktop\latex\temaLatex.lof)
+\tf@lof=\write4
+ [3] [4
+
+]
+(C:\Users\Student\Desktop\latex\temaLatex.lot)
+\tf@lot=\write5
+ [1] [2
+
+]
+Capitolul 1.
+<2.jpg, id=28, 1104.125pt x 840.13875pt>
+File: 2.jpg Graphic file (type jpg)
+ <use 2.jpg>
+Package pdftex.def Info: 2.jpg used on input line 27.
+(pdftex.def)             Requested size: 398.33858pt x 303.10352pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no â in font cmr12!
+[3 <C:/Users/Student/Desktop/latex/2.jpg>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no – in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+ [4]
+Capitolul 2.
+<delta.jpg, id=39, 3902.58pt x 2601.72pt>
+File: delta.jpg Graphic file (type jpg)
+ <use delta.jpg>
+Package pdftex.def Info: delta.jpg used on input line 80.
+(pdftex.def)             Requested size: 398.33858pt x 265.5466pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 80--80
+ [][] 
+ []
+
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+[5
+
+ <C:/Users/Student/Desktop/latex/delta.jpg>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no î in font cmr12!
+Missing character: There is no – in font cmr12!
+ [6]
+Capitolul 3.
+<valea.jpg, id=46, 562.1pt x 220.825pt>
+File: valea.jpg Graphic file (type jpg)
+ <use valea.jpg>
+Package pdftex.def Info: valea.jpg used on input line 137.
+(pdftex.def)             Requested size: 398.33858pt x 156.49031pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 137--137
+ [][] 
+ []
+
+Missing character: There is no î in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no â in font cmr12!
+[7
+
+ <C:/Users/Student/Desktop/latex/valea.jpg>]
+(C:\Users\Student\Desktop\latex\temaLatex.bbl [8]) [9
+
+]
+(C:\Users\Student\Desktop\latex\temaLatex.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1837 strings out of 493921
+ 23534 string characters out of 3147275
+ 80295 words of memory out of 3000000
+ 5141 multiletter control sequences out of 15000+200000
+ 9806 words of font info for 34 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,11n,20p,252b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.
+pfb>
+Output written on temaLatex.pdf (14 pages, 990826 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

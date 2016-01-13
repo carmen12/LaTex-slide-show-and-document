@@ -1,0 +1,20 @@
+\begin{thebibliography}{}
+
+\bibitem[Avriel, 2003]{avriel}
+Avriel, M. (2003).
+\newblock {\em Nonlinear Programming: Analysis and Methods}.
+\newblock Courier Dover Publications.
+
+\bibitem[Baker, 1987]{baker}
+Baker, J.~E. (1987).
+\newblock Reducing bias and inefficiency in the selection algorithm.
+\newblock In {\em Proceedings of the Second International Conference on Genetic
+  Algorithms and their Application}, pages 14 -- 21. L. Erlbaum Associates Inc,
+  Hillsdale, NJ, USA.
+
+\bibitem[Gould and Leyffer, 2002]{gould_leyffer}
+Gould, N. I.~M. and Leyffer, S. (2002).
+\newblock An introduction to algorithms for nonlinear optimization.
+\newblock Report RAL-TR-2002-031, Rutherford Appleton Laboratory.
+
+\end{thebibliography}

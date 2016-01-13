@@ -1,0 +1,45 @@
+body{
+	background: url(bg4.jpg);
+}
+
+.content{
+	margin: auto;
+	margin-top: 5em;
+	width: 65%;
+	height: 100em;
+	background:#fff;
+	padding: 10px 5px 5px 25px;
+}
+
+h1{
+	font-family:cursive;
+	color: #002e4d;
+	padding-top: 3em;
+	margin-left: 5em;
+}
+
+img{
+	border: 1.5px solid #002b4d;
+	border-radius: 30em;
+	float: left;
+	margin-top: 3px;
+	margin-left: 15px;
+	width: 120px;
+	height: 135px;
+}
+
+a{
+	text-decoration: none;
+	color: #004780;
+}
+
+h4{
+	margin-left: 15px;
+}
+
+li a{
+	font-weight: bold;
+	color: #004780;
+}
+
+
