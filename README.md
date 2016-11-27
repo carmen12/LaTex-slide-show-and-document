@@ -1,2 +1,2 @@
 # Presentation-site
-Started on a presentation site. Still needs a lot of work but is a good start. :)
+A LaTex Slide-Show Presentation and a document exported in .pdf... Also a presentation site... You can never have enough. :)
